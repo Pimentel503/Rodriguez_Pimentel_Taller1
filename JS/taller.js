@@ -8,8 +8,6 @@
    //varaible que genera numero aleatorio
    var aleatorio = Math.floor((Math.random() * (100 - 1 + 1)) + 1);
 
-   var impresion = document.getElementById("resul");
-
   
 
     do{
