@@ -12,7 +12,7 @@
 
     do{
           //tomar dato digitado
-        alert(aleatorio);
+        alert("Numero a adivinar": + aleatorio);
         var numero = prompt("Digite un numero entero del 1 - 100");
       
         //declaracion de varaibles
